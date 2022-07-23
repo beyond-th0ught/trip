@@ -13,7 +13,7 @@ import Weekly from './weekly'
 
 export default function componentblog() {
   return (
-    <div class="h-[100%] w-[100%]  bg-gray-50 ">
+    <div class="h-[100%] w-100vh  bg-gray-50 ">
     <div class=" mx-3 pt-1  rounded-md h-[100%] grid grid-col-1 gap-8  ">
     <div class="px-2 py-2 h-full w-full bg-gray-50 ">
     <Nav/>  

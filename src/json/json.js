@@ -16,7 +16,7 @@ function App() {
 
   let newData = useRef();
   return (
-   <div className=' w-full'>
+   <div className=' w-[100%]'>
         <div className='flex justify-center items-center mt-3'>
         <button className='bg-green-500 px-3 py-1 rounded-md mr-5 font-semibold text-white' onClick={()=> {
           //get data coming from input box

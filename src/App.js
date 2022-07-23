@@ -1,12 +1,11 @@
 import React from 'react'
-// import Main from './flexy/main'
-import Json from './json/json'
+import Main from './flexy/main'
 
 
 const App = () => {
   return (
     <div>
-        <Json/>
+        <Main/>
 
     </div>
   )
